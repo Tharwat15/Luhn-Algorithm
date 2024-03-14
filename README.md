@@ -1,4 +1,4 @@
-Luhn Algorithm
+<h1>Luhn Algorithm</h1>
 This Python script implements the Luhn Algorithm, also known as the "modulus 10" or "mod 10" algorithm. It is a simple checksum formula used to validate various identification numbers, particularly credit card numbers.
 
 Features:
